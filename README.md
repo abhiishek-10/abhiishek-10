@@ -1,15 +1,21 @@
 ## Hi there, I'm Abhishek! 👋
 #### Glad to see you here.
+<p align="left">Now I have
+  
+  <img src="https://komarev.com/ghpvc/?username=abhiishek-10" alt="abhiishek-10" /> </p>
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"   alt="Coder GIF" width="400" >
 
 Catch me on,
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhiishek-creates/)](https://www.linkedin.com/in/abhiishek-creates/)
-[![Gmail Badge](https://img.shields.io/badge/-abhishekkathiriya72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishekkathiriya72@gmail.com)](mailto:abhishekkathiriya72@gmail.com) 
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiishek-10" alt="abhiishek-10" /> </p>
-</br>
+[![Gmail Badge](https://img.shields.io/badge/-abhishekkathiriya72@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:abhishekkathiriya72@gmail.com)](mailto:abhishekkathiriya72@gmail.com)
+
+Checkout my pens,
+
+[![CodePen](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black&link=https://codepen.io/abhiishek-10)](https://codepen.io/abhiishek-10)
+
+
 
 Welcome to my corner of the digital realm! 🌟
 As a passionate front-end developer and a staunch advocate for pixel-perfect designs, I'm on a mission to transform ideas into captivating web experiences. With a brush of creativity and a palette of HTML, CSS, and JavaScript, I strive to craft immersive user interfaces that tell compelling stories. I thrive on solving complex front-end challenges and turning them into elegant solutions. Whether it's optimizing performance, enhancing user interfaces, or creating responsive designs, I'm always up for the task.
@@ -23,26 +29,44 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 
   
 💻 My Toolbox:
-- HTML5 & Semantic Markup
-- CSS3 (SASS/SCSS) for Stylish Designs
-- JavaScript (ES6+) for Interactivity
-- React.js for Building Dynamic Web Apps
-- Three.js for immersive 3D Web Experiences
-- GSAP for smooth & seamless Animations
-- WordPress
-- Responsive Web Design for Seamless Accessibility
-- Git & Version Control for Collaborative Workflows
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
+
+![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
   
 👾 SuperPowers:
 - Able to modify any library
-- Build whatever is spoken into web experience
+- Build whatever you think into web experience
 - Because I can animate anything
 - Smoooooooooothly 🌬
 
-📊 **this week i spent my time on:**
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+If you like what I do, maybe consider buying me a coffee/tea 🧋 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/abhiishek10" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+
+
 
 Let's collaborate and elevate your web projects to the next level! Connect with me, and together, we can build remarkable digital experiences. 🌐✨
 
