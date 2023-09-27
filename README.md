@@ -1,6 +1,6 @@
+<img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"   alt="Coder GIF" width="400" >
 ## Hey there, I'm Abhishek! 👋
 #### Glad to see you here.
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"   alt="Coder GIF" width="400" >
 <p align="left">Now I have
   
   <img src="https://komarev.com/ghpvc/?username=abhiishek-10" alt="abhiishek-10" /> </p>
