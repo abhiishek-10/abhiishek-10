@@ -6,6 +6,7 @@
 
 <img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"   alt="Coder GIF" width="400" >
 
+
 Catch me on,
 
 [![Linkedin Badge](https://img.shields.io/badge/-Abhishek-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abhiishek-creates/)](https://www.linkedin.com/in/abhiishek-creates/)
@@ -65,6 +66,10 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+      <img align="left" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=abhiishek-10&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
+    </a>
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" align="center" />
