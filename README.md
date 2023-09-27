@@ -20,6 +20,8 @@ Checkout my pens,
 Welcome to my corner of the digital realm! 🌟
 As a passionate front-end developer and a staunch advocate for pixel-perfect designs, I'm on a mission to transform ideas into captivating web experiences. With a brush of creativity and a palette of HTML, CSS, and JavaScript, I strive to craft immersive user interfaces that tell compelling stories. I thrive on solving complex front-end challenges and turning them into elegant solutions. Whether it's optimizing performance, enhancing user interfaces, or creating responsive designs, I'm always up for the task.
 
+<br/>
+
 🚀 What I Love:
 - Building stunning and responsive websites
 - Solving complex UI/UX puzzles
@@ -27,6 +29,7 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 - Embracing new technologies to stay at the cutting edge
 - oh! and I love Valorant
 
+<br/>
   
 💻 My Toolbox:
 
@@ -51,6 +54,7 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
+<br/>
   
 👾 SuperPowers:
 - Able to modify any library
@@ -61,6 +65,8 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" align="center" />
 
 If you like what I do, maybe consider buying me a coffee/tea 🧋 🥺👉👈
 
