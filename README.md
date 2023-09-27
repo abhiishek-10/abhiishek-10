@@ -66,6 +66,7 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" align="center" />
 
 If you like what I do, maybe consider buying me a coffee/tea 🧋 🥺👉👈
