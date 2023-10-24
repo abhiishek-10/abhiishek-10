@@ -4,7 +4,7 @@
   
   <img src="https://komarev.com/ghpvc/?username=abhiishek-10" alt="abhiishek-10" /> </p>
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"   alt="Coder GIF" width="400" >
+<img align="right" src="https://user-images.githubusercontent.com/74038190/218265814-3084a4ba-809c-4135-afc0-8685d0f634b3.gif" style="max-width: 100%; display: inline-block;" width='400' >
 
 
 Catch me on,
