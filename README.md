@@ -42,6 +42,7 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next](https://img.shields.io/badge/nextjs-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
 ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
@@ -56,20 +57,14 @@ As a passionate front-end developer and a staunch advocate for pixel-perfect des
 
 
 <br/>
-  
-👾 SuperPowers:
-- Able to modify any library
-- Build whatever you think into web experience
-- Because I can animate anything
-- Smoooooooooothly 🌬
 
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+<!--<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="left" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=abhiishek-10&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true" />
-    </a>
+    </a>-->
 
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" align="center" />
